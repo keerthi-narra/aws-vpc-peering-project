@@ -1,0 +1,39 @@
+# AWS credentials and private keys
+*.pem
+*.key
+*.ppk
+.aws/
+credentials
+config.local
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*secret*
+*credentials*
+
+# SSH files
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
