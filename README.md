@@ -1,7 +1,7 @@
 # AWS VPC Peering Project
 
 **Project:** Connecting Two Private Networks Using AWS VPC Peering  
-**Student Name:** [Your Name]  
+**Student Name:** Narra Keerthi Reddy
 **Batch:** [Your Batch]  
 **AWS Region:** Asia Pacific (Sydney) — `ap-southeast-2`  
 **Completion Date:** 28 October 2026
